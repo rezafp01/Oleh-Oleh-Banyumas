@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "521153035537",
+    "project_id": "apkinfo-oleh-oleh-banyumas",
+    "storage_bucket": "apkinfo-oleh-oleh-banyumas.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:521153035537:android:ded5fe05deb923f367e0b0",
+        "android_client_info": {
+          "package_name": "com.developer.apkinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "521153035537-29mttotq9f0s5n248jvtj2a674tj07k5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.developer.apkinfo",
+            "certificate_hash": "36a88c42f8d8ccf7f028a139dd271b1b11ef10c3"
+          }
+        },
+        {
+          "client_id": "521153035537-n8312jndidl7gvh5s5vnekv0g8np7ji4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDV653PsTPZM06kHkWd96DOAikE2GH2XZg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "521153035537-n8312jndidl7gvh5s5vnekv0g8np7ji4.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
